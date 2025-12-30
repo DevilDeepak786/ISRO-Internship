@@ -1,4 +1,4 @@
-# FPGA-Controlled Infrared Imaging System (Microbolometer-Based)
+# FPGA Controlled Infrared Imaging System (Microbolometer-Based)
 
 
 Project Overview:
