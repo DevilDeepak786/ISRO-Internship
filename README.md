@@ -27,7 +27,6 @@ Hardware Design Highlights:
 Nine precision bias voltages generated using RHFL4913A LDOs
 Bidirectional buffering between detector and FPGA using 54AC164245
 FPGA-based:
-
 Clock dividers and FSMs
 Pixel de-multiplexing (6-bit → 12-bit)
 Row and column address counters
