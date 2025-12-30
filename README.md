@@ -1,6 +1,6 @@
-# ISRO-Internship
+# FPGA-Controlled Infrared Imaging System (Microbolometer-Based)
 
-FPGA-Controlled Infrared Imaging System (Microbolometer-Based)
+
 Project Overview:
 
 This project implements a complete infrared (IR) imaging system using an uncooled LWIR microbolometer (ULIS 03-19-1, 384×288, 12-bit) interfaced with an Actel ProASIC3E FPGA. The system focuses on precise timing control, direct digital data acquisition, and offline image reconstruction, avoiding conventional frame buffers or high-level interfaces.The design demonstrates a memory-less, logic-analyzer-based acquisition approach, providing cycle-accurate visibility into detector readout and enabling reliable thermal image reconstruction using MATLAB.
